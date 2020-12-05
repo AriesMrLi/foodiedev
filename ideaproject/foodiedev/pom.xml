@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <!--common存放一些公共的资源 -->
+        <!--common存放一些公共的资源的 -->
         <module>foodie-dev-common</module>
         <module>foodie-dev-pojo</module>
         <module>foodie-dev-mapper</module>
